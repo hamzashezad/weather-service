@@ -1,0 +1,6 @@
+WEATHER SERVICE
+====
+
+Environment configuration
+
+    OWM_KEY=  # OpenWeatherMap API key
